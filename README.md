@@ -1,4 +1,4 @@
 # Rest-API
 First Project - Task Master
 
-Application is avaible in Heroku - LINK: https://flaskcrudapiapp.herokuapp.com/
+This app is running in Heroku Cloud platform - LINK: https://flaskcrudapiapp.herokuapp.com/
